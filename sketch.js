@@ -14,7 +14,7 @@ function setup() {
   ground.color = "rgb(47,223,47)";
   ground.height = 200;
   ground.width = 2000;
-  ground.y = 550;
+  ground.y = 650;
   ground.collider = "kinematic";
 
   player = new Sprite();
